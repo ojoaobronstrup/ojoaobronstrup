@@ -1,10 +1,10 @@
-<h3>BEM-VINDO(A) AO MEU GITHUB!</h3>
+<h2>BEM-VINDO(A) AO MEU GITHUB!</h2>
 
-<h4>SOBRE MIM:</h4>
-<h6>Atualmente contribuo com o desenvolvimento de softwares de termometria, aeração e irrigação na empresa Fockink.</h6>
-<h6>No meu tempo livre, gosto de estudar sobre novas tecnologias e me aprofundar em conceitos de programação ainda não conhecidos. Por exemplo, no atual momento estou aprendendo sobre as boas práticas de desenvolvimento, como: Clean Architecture, Test Driven Development, SOLID e Clean Code.</h6>
+<h3>SOBRE MIM:</h3>
+<h5>Atualmente contribuo com o desenvolvimento de softwares de termometria, aeração e irrigação na empresa Fockink.</h5>
+<h5>No meu tempo livre, gosto de estudar sobre novas tecnologias e me aprofundar em conceitos de programação ainda não conhecidos. Por exemplo, no atual momento estou aprendendo sobre as boas práticas de desenvolvimento, como: Clean Architecture, Test Driven Development, SOLID e Clean Code.</h5>
 
-<h4>PRINCIPAIS FERRAMENTAS:</h4>
+<h3>PRINCIPAIS FERRAMENTAS:</h3>
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<h4>MEIOS DE COMUNICAÇÃO:</h4>
+<h3>MEIOS DE COMUNICAÇÃO:</h3>
 <div>
   <a href="https://www.linkedin.com/in/joaobronstrup/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
